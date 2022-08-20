@@ -1,0 +1,9 @@
+a = float(input("Reynolds1->"))
+
+ b = float(input("Reynolds2->"))
+
+ c = float(input("Reynolds3->"))
+
+for i in [a,b,c]:
+
+ if i < 2300: print("hola buenos dias")
